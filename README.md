@@ -37,6 +37,42 @@
   maintenance efforts.
   
 ## Projects
- 
+ Project Title: Development of Computer-Based Test (CBT) PPDB Application for an Educational Foundation
+
+Project Overview:
+This project involved the design and development of a custom Computer-Based Test (CBT) application tailored for an educational foundation. The application serves as a secure and efficient platform for conducting online assessments, allowing students to take exams digitally while enabling administrators and teachers to manage and evaluate tests seamlessly.
+
+Key Features:
+
+User Management and Authentication:
+The system incorporates role-based access control to differentiate between students, teachers, and administrators. Secure authentication processes were implemented to ensure that only authorized users could access the platform and its features.
+
+Test Creation and Management:
+Teachers and administrators can create and manage tests using a user-friendly interface. The platform supports a variety of question types, including multiple choice, essay, and true/false questions, and allows for easy customization of exam parameters such as time limits and question randomization.
+
+Automated Grading System:
+For objective question types (e.g., multiple choice), the platform includes an automated grading system that instantly calculates scores upon test completion. This reduces the workload for teachers and ensures timely feedback for students.
+
+Real-time Test Monitoring:
+The system enables real-time monitoring of test progress, providing administrators with insights into which students are currently taking the test, their time usage, and potential discrepancies or irregularities in their responses.
+
+Result Reporting and Analytics:
+Upon test completion, the system generates detailed reports of individual and overall test performance. These reports can be used to track student progress and provide insights for improving teaching methods and curriculum design.
+
+Data Security and Integrity:
+The application was designed with a strong emphasis on security. Encryption methods were used to protect sensitive data, such as student information and test results. Additionally, the platform includes features to prevent cheating, such as timed sections and randomized question order.
+
+Scalability and Performance Optimization:
+Given the potential for high user traffic, especially during peak testing periods, the application was optimized for scalability and performance. The back-end infrastructure was designed to handle concurrent users efficiently, ensuring that students could take exams without delays or interruptions.
+
+Mobile and Cross-platform Compatibility:
+The platform is designed to be fully responsive, allowing students to take tests on a range of devices, including desktops, tablets, and smartphones, without compromising functionality or user experience.
+
+Project Impact:
+The CBT application has significantly streamlined the examination process for the foundation. It has reduced administrative burdens, eliminated the need for paper-based exams, and provided students with a modern, convenient way to take assessments. Moreover, the automated grading and analytics features have enhanced the ability of educators to track and improve student performance.
+
+
 ## Publications
+
+-  https://e-hakcipta.dgip.go.id/index.php/c?code=MGVkMDlmMzVjNTNlZTcyNDliMjMxOWZmZjYxZjk4Y2YK
 
