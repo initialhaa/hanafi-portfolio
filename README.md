@@ -1,4 +1,4 @@
-#### Technical Skills: Typscript, JavaScript, SQL, PHP, Laravel, NestJs
+#### Technical Skills: Typscript, JavaScript, PHP, Laravel, NestJs, SQL, MongoDB, GitHub, GitLab, Trello, Slack, Docker
 
 ## Education 			        		
 - S.Kom, Informatic Enginering | The University of Pamulang (_Juli 31 2024_)
