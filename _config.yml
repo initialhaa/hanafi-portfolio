@@ -4,5 +4,5 @@ logo: /assets/img/my_foto.png
 show_downloads: true
 # theme: jekyll-theme-minimal
 # Al-folio Specific
-theme: al-folio
+theme: jekyll-theme-al-folio
 remote_theme: alshedivat/al-folio@main
