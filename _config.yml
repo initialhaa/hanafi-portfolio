@@ -1,73 +1,8 @@
-# title: Hanafi
-# logo: /assets/img/my_foto.png
-# #description: text below image
-# show_downloads: true
-# theme: jekyll-theme-minimal
-# Site Settings
-title: Hanafi Portfolio
-email: your.email@example.com
-description: >- 
-  Web Developer & Designer specializing in modern web solutions
-baseurl: "" 
-url: "https://initialhaa.github.io" 
+title: Hanafi
 logo: /assets/img/my_foto.png
-
-# Build Settings
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Custom Variables
-author:
-  name: Hanafi
-  github: initialhaa
-  twitter: yourtwitterhandle
-
-# Navigation
-navbar:
-  - name: "Projects"
-    link: "/projects"
-  - name: "About"
-    link: "/about"
-  - name: "Contact"
-    link: "/contact"
-
-# Portfolio Settings
-portfolio:
-  show_projects: true
-  projects_limit: 6
-  skills:
-    - "HTML/CSS"
-    - "JavaScript"
-    - "Jekyll"
-    - "UI/UX Design"
-
-# Social Media
-social:
-  - name: "GitHub"
-    icon: "github"
-    url: "https://github.com/initialhaa"
-  - name: "LinkedIn"
-    icon: "linkedin"
-    url: "https://linkedin.com/in/yourprofile"
-  - name: "Twitter"
-    icon: "twitter"
-    url: "https://twitter.com/yourhandle"
-
-# Advanced Settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-sass:
-  style: compressed
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - README.md
+#description: text below image
+show_downloads: true
+# theme: jekyll-theme-minimal
+# Al-folio Specific
+theme: al-folio
+remote_theme: alshedivat/al-folio@main
