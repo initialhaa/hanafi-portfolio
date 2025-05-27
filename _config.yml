@@ -2,7 +2,4 @@ title: Hanafi
 logo: /assets/img/my_foto.png
 #description: text below image
 show_downloads: true
-# theme: jekyll-theme-minimal
-# Al-folio Specific
-theme: jekyll-theme-al-folio
-remote_theme: alshedivat/al-folio@main
+theme: jekyll-theme-minimal
