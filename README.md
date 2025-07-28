@@ -57,4 +57,4 @@ A comprehensive digital examination and student enrollment platform featuring:
 - Enhanced exam security through advanced monitoring features  
 
 ## Publications  
-- [Digital Copyright Certification](https://e-hakcipta.dgip.go.id/index.php/c?code=MGVkMDlmMzVjNTNlZTcyNDliMjMxOWZmZjYxZjk4Y2YK)
+- <https://e-hakcipta.dgip.go.id/index.php/c?code=MGVkMDlmMzVjNTNlZTcyNDliMjMxOWZmZjYxZjk4Y2YK>
