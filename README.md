@@ -74,5 +74,5 @@ The CBT application has significantly streamlined the examination process for th
 
 ## Publications
 
--  https://e-hakcipta.dgip.go.id/index.php/c?code=MGVkMDlmMzVjNTNlZTcyNDliMjMxOWZmZjYxZjk4Y2YK
+- <https://e-hakcipta.dgip.go.id/index.php/c?code=MGVkMDlmMzVjNTNlZTcyNDliMjMxOWZmZjYxZjk4Y2YK>
 
